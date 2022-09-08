@@ -1,0 +1,12 @@
+<project>
+<!-- pom.xml version-->
+<modelVersion>4.0.0</modelVersion>
+<!-- company Name-->
+<groupId>eswar.org</groupId>
+<!-- component or war file name-->
+<artifactId>mymavenproject</artifactId>
+<!-- release or artifact version-->
+<version>1.0.0</version>
+<!-- war or jar file-->
+<packaging>jar</packaging>
+  </project>
